@@ -44,7 +44,7 @@ Contributions are welcome! If you find any bugs or have feature suggestions, ple
 
 ## License:
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [CC0 1.0 Universal](LICENSE).
 
 ---
 
