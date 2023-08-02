@@ -24,7 +24,7 @@ LocalStream is a user-friendly and versatile app that empowers you to create and
 
 To install LocalStream, follow these steps:
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/LocalStream/releases) page.
+1. Download the latest release from the [Releases](https://github.com/Mr-Sunglasses/LocalStream/releases) page.
 
 2. Install the app on your device by following the on-screen instructions.
 
@@ -44,9 +44,8 @@ Contributions are welcome! If you find any bugs or have feature suggestions, ple
 
 ## License:
 
-This project is licensed under the [CC 1.0](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
 Experience the convenience and efficiency of local sharing with LocalStream. Stay connected, share freely, and take collaboration to new heights within your local environment. Download LocalStream now and unleash the potential of easy and secure local sharing.
-
